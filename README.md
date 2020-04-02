@@ -8,3 +8,10 @@ Repository with suggestions on best practices and tools for remote conference at
 * Useful chart with overview of some tech options: https://meta.wikimedia.org/wiki/WikiProject_remote_event_participation
 
 * Alternatives to Zoom: https://www.macobserver.com/tips/quick-tip/5-zoom-alternatives/
+
+* "The semi-virtual academic conference (a short documentary)" https://www.youtube.com/watch?v=TPtDHidVyZE&feature=youtu.be
+
+* Conference paper recommendation software https://confer.csail.mit.edu/ 
+
+* Video presentation guidelines including subtitling: https://uist.acm.org/uist2020/videos-and-video-previews.html 
+
