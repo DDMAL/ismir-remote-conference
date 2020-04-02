@@ -12,7 +12,7 @@ What are you trying to add and how would you want to do it differently? Is it so
 
 **Has the feature been requested before?**
 
-Please provide a link to the issue.
+Please provide a link to the issue (if exists).
 
 **If the feature request is accepted, would you be willing to submit a PR?**
 
