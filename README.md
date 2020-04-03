@@ -42,4 +42,4 @@ Repository with suggestions on best practices and tools for remote conference at
 ## Articles 
 
 - [“Virtual socializing at academic conferences”](http://www.parncutt.org/virtualsocializing.html) by Richard Parncutt
-- Parncutt, R., Meyer-Kahlen, N., & Sattmann, S. (2019). Live-streaming at international academic conferences: Technical and organizational options for single- and multiple-location formats.[full text](https://www.elementascience.org/articles/10.1525/elementa.392/)
+- Parncutt, R., Meyer-Kahlen, N., & Sattmann, S. (2019). Live-streaming at international academic conferences: Technical and organizational options for single- and multiple-location formats. ([full text](https://www.elementascience.org/articles/10.1525/elementa.392/))
